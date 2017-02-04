@@ -1,25 +1,18 @@
 ---
-title       : Basic markdown
-subtitle    : 
-author      : Jeffrey Leek, Assistant Professor of Biostatistics 
-job         : Johns Hopkins Bloomberg School of Public Health
-logo        : bloomberg_shield.png
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow   # 
+title: "Basic markdown"
+author: "Jeffrey Leek, Assistant Professor of Biostatistics"
+highlighter: highlight.js
+output: html_document
+job: Johns Hopkins Bloomberg School of Public Health
+logo: bloomberg_shield.png
+mode: selfcontained
+hitheme: tomorrow
+subtitle: null
+framework: io2012
 url:
-  lib: ../../librariesNew
   assets: ../../assets
-widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-
-## What is Markdown?
-
-### "Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)."
-
-
-###  [John Gruber, creator of Markdown](http://daringfireball.net/projects/markdown/) 
-
+  lib: ../../librariesNew
+widgets: mathjax
 ---
 
 ## Markdown Syntax
